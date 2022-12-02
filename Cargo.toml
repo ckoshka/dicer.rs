@@ -1,0 +1,12 @@
+[[bin]]
+name = "dicer"
+path = "dicer.rs"
+
+[dependencies.term_macros]
+git = "https://github.com/ckoshka/term_macros"
+
+[package]
+authors = ["Anonymous"]
+edition = "2018"
+name = "dicer"
+version = "0.1.0"
